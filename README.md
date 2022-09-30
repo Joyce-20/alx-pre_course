@@ -1,1 +1,2 @@
-my first readme
+My first readme
+ALX SE is cool
